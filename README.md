@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0485-max-consecutive-ones](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/1470-shuffle-the-array) |
 ## String
 |  |
