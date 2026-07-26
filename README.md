@@ -5,6 +5,7 @@ A collection of LeetCode questions I solved
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0645-set-mismatch) |
@@ -35,10 +36,12 @@ A collection of LeetCode questions I solved
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
