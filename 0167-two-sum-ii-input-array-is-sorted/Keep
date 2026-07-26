@@ -1,0 +1,1 @@
+Many times, we have to run two loops, because of which the time complexity is O(n2), but if we traverse from opposite ends, then the complexity can decrease.
