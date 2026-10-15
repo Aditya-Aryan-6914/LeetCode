@@ -34,6 +34,7 @@ A collection of LeetCode questions I solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0190-reverse-bits) |
 | [0645-set-mismatch](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -72,4 +73,8 @@ A collection of LeetCode questions I solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
