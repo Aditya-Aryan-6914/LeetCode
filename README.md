@@ -18,6 +18,7 @@ A collection of LeetCode questions I solved
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
@@ -27,10 +28,12 @@ A collection of LeetCode questions I solved
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
@@ -65,4 +68,8 @@ A collection of LeetCode questions I solved
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Aditya-Aryan-6914/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
